@@ -1,0 +1,7 @@
+.env
+.gitignore
+*.sh
+Dockerfile
+.idea
+.git
+.dockerignore
